@@ -1,0 +1,1 @@
+{  "name": "shopdemo-api-lab2",  "version": "1.0.0",  "description": "Local teaching API for Lab 2 (performance testing with k6)",  "main": "server.js",  "scripts": {    "start": "node server.js"  },  "license": "MIT" }
